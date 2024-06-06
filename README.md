@@ -3,11 +3,11 @@
 This experiment evaluated the effectiveness of a display ad campaign promoting Selene's environmentally friendly practices on sales. Researchers investigated two key questions:
 * **Overall Campaign Effect (ITT):** Did the ad campaign, on average, lead to higher sales compared to the control group who didn't see the ads?
 * **Effect on Exposed Users (TOT):** Among users who actually saw the ads (treatment group exposed), did their sales increase compared to users in the control group who saw ghost ads (treatment group not exposed)?
-Randomization Check:
 
+**Randomization Check:**
 The analysis confirmed successful randomization by comparing user characteristics (country, past sales) between treatment and control groups. There were no statistically significant differences.
 
-Campaign Effect Analysis:
+**Campaign Effect Analysis:**
 * **ITT Estimate:** Pointed to a slightly positive impact on sales in the treatment group, but the confidence interval included zero, indicating the effect might not be statistically significant.
 * **TOT Estimate:** Showed a stronger positive impact on sales for users who saw the ads compared to those who didn't. However, the confidence interval also included zero, suggesting some uncertainty about the significance.
 
