@@ -6,6 +6,7 @@ This experiment evaluated the effectiveness of a display ad campaign promoting S
 Randomization Check:
 
 The analysis confirmed successful randomization by comparing user characteristics (country, past sales) between treatment and control groups. There were no statistically significant differences.
+
 Campaign Effect Analysis:
 * **ITT Estimate:** Pointed to a slightly positive impact on sales in the treatment group, but the confidence interval included zero, indicating the effect might not be statistically significant.
 * **TOT Estimate:** Showed a stronger positive impact on sales for users who saw the ads compared to those who didn't. However, the confidence interval also included zero, suggesting some uncertainty about the significance.
